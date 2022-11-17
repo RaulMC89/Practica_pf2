@@ -1,0 +1,15 @@
+{
+    "nomApp" : "Components",
+    "rutes" : [
+        {
+            "ruta" : "PersonalPage",
+            "icona" : "input",
+            "texte": "Inputs"
+        },
+        {
+            "ruta" : "WidgetPage",
+            "icona" : "tune",
+            "texte": "WitgetPage"
+        }
+    ]
+}
